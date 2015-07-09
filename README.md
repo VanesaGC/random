@@ -1,0 +1,1 @@
+Código node.js, que obtiene un número aleatorio que si es menor o igual a 0.5 imprime por consola "n es MENOR que 0.5" (Entendiendo por n como el número aleatorio). En caso de que el número aleatorio sea mayor imprimirá "n es MAYOR que 0.5.
